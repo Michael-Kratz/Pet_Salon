@@ -1,0 +1,17 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  color: rgba(128, 0, 128, 0.735);
+  font-size: 50px;
+}
+
+.test {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 300px;
+}
+
+body {
+  background-color: blanchedalmond;
+}
